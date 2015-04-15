@@ -45,7 +45,7 @@ var phpFile = "/[CHOOSE YOUR OWN ADVENTURE]/" + currDate + "/php-error" + i++ + 
       host: a,
       port: 2222,
       username: usr,
-      privateKey: fs.readFileSync('[/YOUR PATH TO FREEDOM].ssh/id_rsa', 'utf8')
+      privateKey: fs.readFileSync('[/YOUR PATH TO FREEDOM/].ssh/id_rsa', 'utf8')
     });
 
    }); // End of forEach.
