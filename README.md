@@ -12,5 +12,5 @@ Requirements
 Example
 =======
 
-// Enter this from the commandline.
+# Enter this from the commandline.
 node get-pantheon-logs.js
